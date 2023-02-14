@@ -9,8 +9,7 @@
 
 ## Setup project
 
-1. Once you get **API KEY** you need yo add that key in `src/components/News.js` file.
-2. Create `.env.local` file in `src` folder. 
+1. Once you get **API KEY** you need to Create `.env.local` file in `src` folder. 
 
 ```javascript
 // Replace <API KEY> to your key.
