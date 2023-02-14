@@ -1,6 +1,6 @@
 # News-Webapp using React.js with infinite-scroll
-![Preview](/News-Website/public/Screenshot (125).png/?raw=true "News")
-![Preview](/News-Website/public/Screenshot (126).png/?raw=true "News")
+![Preview](https://github.com/KUNJ1311/News-Website/blob/master/public/Screenshot%20(125).png/?raw=true "News")
+![Preview](https://github.com/KUNJ1311/News-Website/blob/master/public/Screenshot%20(126).png/?raw=true "News")
 
 # Getting Started with Create React App
 
