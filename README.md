@@ -10,23 +10,12 @@
 ## Setup project
 
 1. Once you get **API KEY** you need yo add that key in `src/components/News.js` file.
+2. Create `.env.local` file in `src` folder. 
 
 ```javascript
 // Replace <API KEY> to your key.
-    async componentDidMount() {
-        let url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=<API KEY>&page=1";
-        let data = await fetch(url);
-        let parsedData = await data.json()
-        console.log(parsedData);
-        this.setState({articles: parsedData.articles})
-    }
+   REACT_APP_NEWS_API="<API KEY>"
 ```
 
 2. Run command `npm install` in terminal.
 3. Then run the command `npm start` in terminal.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-
