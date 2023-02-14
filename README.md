@@ -17,4 +17,4 @@
 ```
 
 2. Run command `npm install` in terminal.
-3. Then run the command `npm start` in terminal.
+3. Then run the command `npm run start` in terminal.
