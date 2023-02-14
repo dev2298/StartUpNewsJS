@@ -1,5 +1,5 @@
 # News-Webapp using React.js with infinite-scroll
-![Preview](https://github.com/KUNJ1311/News-Website/blob/master/public/Screenshot%20(126).png)
+![Preview](https://github.com/KUNJ1311/News-Website/blob/master/public/Screenshot%20(126).png/?raw=true "News")
 
 ## Get API KEY
 
